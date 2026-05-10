@@ -1,4 +1,4 @@
-public class Solution{
+public class Revstring{
   
   public String revstring(String s, int k){
     int i =0;
